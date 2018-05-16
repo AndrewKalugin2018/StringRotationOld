@@ -1,0 +1,2 @@
+# StringRotation
+Вращение строк. StringRotation
